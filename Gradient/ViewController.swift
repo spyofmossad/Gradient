@@ -11,7 +11,6 @@ import UIKit
 class ViewController: UIViewController {
     
     private var alphaValue: CGFloat = 1.0
-    
     private var roundFormatter: String = "%.2f"
     
     @IBOutlet weak var paletteView: UIView!
